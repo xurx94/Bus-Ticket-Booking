@@ -1,0 +1,12 @@
+Departure,Destination,Day,Month,Year,Seat Type,Seats,Total Cost
+Rajshahi,Dhaka,1,Sept,2025,AC,B1|B2,1625.0
+Dhaka,Sreemangal,4,Sept,2025,AC,B2,712.5
+Khulna,Dhaka,1,Sept,2025,AC,E1,812.5
+Sreemangal,Dhaka,1,Sept,2025,AC,D3|D4,1425.0
+Cox's Bazar,Chittagong,4,Sept,2025,Non-AC,D1|D2,0.0
+Dhaka,Sreemangal,5,Sept,2025,AC,C3|C4,1425.0
+Dhaka,Cox's Bazar,1,Sept,2025,AC,C1|C2,2750.0
+Sylhet,Rajshahi,5,Sept,2025,AC,C2|C1,2875.0
+Dhaka,Chittagong,15,Sept,2025,Non-AC,C1|B2,1300.0
+Rajshahi,Khulna,5,Sept,2025,AC,D3|D4,1750.0
+Rajshahi,Dhaka,3,Sept,2025,AC,A1|A2,1625.0

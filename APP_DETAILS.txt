@@ -1,0 +1,38 @@
+App Flow:
+1. Login Window
+	Username, Password fields, Login, Register Buttons
+	read users file(csv) for login authentication
+
+2. Register Window
+	Name, Gender, City, Address, username, password fields, Register and Reset buttons
+	writes on users file(csv) to store user information
+
+3. Dashboard window
+	Departure, Destination, Date, AC/NON-AC Item Box to select
+	Search Bus button to search available busses
+
+4. Ticker Counter Window
+	top panel: Title and Info
+	Right Panel:
+	Choose seat(Buttons) 
+	Green -> Selected
+	Gray -> Booked
+	White -> Available
+	cannot select more than two seats at a time
+	Left Panel: 
+	Seat info and Journey Info
+	reads prices(csv) to show fare based on journey route and seat count 
+	Bottom Panel:
+	confirm button for booking seats
+	writes on booking(csv) to store seat and journey info
+	pay button for payment
+
+5. Payment Window
+	Full name, Mobile fields, Payment Method Radio buttons, otp field and OTP button
+	Pay button 
+
+6. Ticket Window
+	Shows the Passenger, Journey and payment info altogether as in a real ticket
+	Download ticket button.
+	 
+	

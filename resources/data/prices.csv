@@ -1,0 +1,22 @@
+Location1,Location2,Price
+Rajshahi,Dhaka,650
+Rajshahi,Khulna,700
+Rajshahi,Sylhet,1150
+Rajshahi,Barisal,750
+Rajshahi,Rangpur,350
+Rajshahi,Chittagong,1250
+Rajshahi,Mymensingh,850
+Dhaka,Sreemangal,570
+Dhaka,Sylhet,750
+Dhaka,Chittagong,650
+Dhaka,Cox's Bazar,1100
+Dhaka,Khulna,650
+Sylhet,Sreemangal,180
+Sylhet,Chittagong,850
+Sylhet,Cox's Bazar,1250
+Sreemangal,Chittagong,600
+Sreemangal,Cox's Bazar,1100
+Sreemangal,Rajshahi,1000
+Cox's Bazar, Chittagong,350
+
+
